@@ -1,0 +1,106 @@
+
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(255, 255, 255, 0.932);
+}
+
+/* avatar */
+.avatar{
+    width: 40%;
+    height: 250px;
+    float: left;
+    background: #1c1a41;
+}
+
+.avatar img{
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border:#ffffff 5px solid;
+}
+
+/* name */
+.name{
+
+    width: 60%;
+    height: 250px;
+    float: right;
+    background: #1c1a41;
+    
+}
+.name h1{
+    font-size: 40px;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.name h2{
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    margin: 5%;
+}
+
+/* column*/
+
+.left-column {
+    width: 40%;
+    height: 20.5cm;
+    background: #06516e;
+    float: left;
+}
+
+
+
+.right-column {
+    width: 60%;
+    height: 20.5cm;
+    background: #000000;
+    float: right
+}
+
+.title-left-column {
+    height: 20px;
+    font-size: 18px;
+    color: whitesmoke;
+    background-color: #000000;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: whitesmoke;
+}
+
+.title-right-column {
+    height: 20px;
+    font-size: 18px;
+    color: whitesmoke;
+    background-color: #06516e;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: whitesmoke;
+}
+
+.content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+.content a{
+    color: rgba(65, 233, 255, 0.658);
+}
